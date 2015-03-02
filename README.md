@@ -6,6 +6,7 @@ quick and dirty benchmarks of slurping links out of html.
 
 output on my machine:
 
+```
 estimating clock resolution...
 mean is 710.2115 ns (1280001 iterations)
 found 3303 outliers among 1279999 samples (0.3%)
@@ -33,5 +34,5 @@ found 3 outliers among 100 samples (3.0%)
 variance introduced by outliers: 17.088%
 variance is moderately inflated by outliers
 Benchmark bench: FINISH
-
+```
 
